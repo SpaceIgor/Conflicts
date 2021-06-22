@@ -1,1 +1,2 @@
-a = input(int("Pls, write number"))
+a = 10
+b = 6
