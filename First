@@ -8,3 +8,4 @@ a - b = d
 print(d)
 
 c + d = k
+print(k)
