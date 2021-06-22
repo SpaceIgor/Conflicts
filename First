@@ -1,1 +1,1 @@
-1.First line 
+a = input(int("Pls, write number"))
