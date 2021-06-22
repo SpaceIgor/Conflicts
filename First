@@ -1,6 +1,10 @@
 a = 10
 b = 6
-a + b = c #c - type int 
+a + b = c  
+#c - type int   
 print(c)
-a - b = d #d - type int
+a - b = d
+#d - type int    
 print(d)
+
+c + d = k
