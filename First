@@ -1,6 +1,6 @@
 a = 10
 b = 6
-a + b = c
+a + b = c #c - type int 
 print(c)
-a - b = d
+a - b = d #d - type int
 print(d)
